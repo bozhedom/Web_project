@@ -1,0 +1,15 @@
+bin/
+obj
+wwwroot/
+Views/
+Properties/
+appsettings.Development.json
+appsettings.
+package
+package-lock.json
+project_web.csproj
+client/.idea/
+client/node_modules/
+client/package
+client/package-lock.json
+client/tsconfig.json
