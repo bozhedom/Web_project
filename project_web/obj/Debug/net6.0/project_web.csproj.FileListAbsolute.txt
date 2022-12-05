@@ -1,0 +1,226 @@
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.csproj.AssemblyReference.cache
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.AssemblyInfoInputs.cache
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.AssemblyInfo.cs
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.csproj.CoreCompileInputs.cache
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.MvcApplicationPartsAssemblyInfo.cs
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.MvcApplicationPartsAssemblyInfo.cache
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.RazorAssemblyInfo.cache
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.RazorAssemblyInfo.cs
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\appsettings.Development.json
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\appsettings.json
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\client\package-lock.json
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\client\package.json
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\client\public\manifest.json
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.staticwebassets.runtime.json
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.exe
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.deps.json
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.runtimeconfig.json
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.pdb
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Jering.IocServices.System.Net.Http.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Jering.Javascript.NodeJS.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.ApplicationInsights.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.DependencyCollector.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.EventCounterCollector.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.PerfCounterCollector.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.WindowsServer.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.ServerTelemetryChannel.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Mocoding.AspNetCore.Spa.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\staticwebassets.build.json
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\staticwebassets.development.json
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\scopedcss\bundle\project_web.styles.css
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\scopedcss\projectbundle\project_web.bundle.scp.css
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.csproj.CopyComplete
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.dll
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\refint\project_web.dll
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.pdb
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.genruntimeconfig.cache
+D:\source\repos\project_web\project_web\obj\Debug\net6.0\ref\project_web.dll
+D:\source\repos\project_web\project_web\bin\Debug\net6.0\client\tsconfig.json
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\appsettings.Development.json
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\appsettings.json
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\client\package-lock.json
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\client\package.json
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\client\public\manifest.json
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\client\tsconfig.json
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\package-lock.json
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.staticwebassets.runtime.json
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.exe
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.deps.json
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.runtimeconfig.json
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.pdb
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Jering.IocServices.System.Net.Http.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Jering.Javascript.NodeJS.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.ApplicationInsights.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.DependencyCollector.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.EventCounterCollector.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.PerfCounterCollector.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.WindowsServer.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Mocoding.AspNetCore.Spa.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.csproj.AssemblyReference.cache
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.AssemblyInfoInputs.cache
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.AssemblyInfo.cs
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.csproj.CoreCompileInputs.cache
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.MvcApplicationPartsAssemblyInfo.cs
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.MvcApplicationPartsAssemblyInfo.cache
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.RazorAssemblyInfo.cache
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.RazorAssemblyInfo.cs
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\scopedcss\bundle\project_web.styles.css
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\scopedcss\projectbundle\project_web.bundle.scp.css
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.csproj.CopyComplete
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.dll
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\refint\project_web.dll
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.pdb
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.genruntimeconfig.cache
+D:\Project_direction\source\repos\project_web\project_web\obj\Debug\net6.0\ref\project_web.dll
+D:\Project_direction\source\repos\project_web\project_web\bin\Debug\net6.0\package.json
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\appsettings.Development.json
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\appsettings.json
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\client\public\manifest.json
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\client\tsconfig.json
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\package-lock.json
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\package.json
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\client\package-lock.json
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\client\package.json
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.staticwebassets.runtime.json
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.exe
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.deps.json
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.runtimeconfig.json
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\project_web.pdb
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Jering.IocServices.System.Net.Http.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Jering.Javascript.NodeJS.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.ApplicationInsights.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.DependencyCollector.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.EventCounterCollector.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.PerfCounterCollector.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.WindowsServer.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AI.ServerTelemetryChannel.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Mocoding.AspNetCore.Spa.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.csproj.AssemblyReference.cache
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.GeneratedMSBuildEditorConfig.editorconfig
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.AssemblyInfoInputs.cache
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.AssemblyInfo.cs
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.csproj.CoreCompileInputs.cache
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.MvcApplicationPartsAssemblyInfo.cs
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.MvcApplicationPartsAssemblyInfo.cache
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.RazorAssemblyInfo.cache
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.RazorAssemblyInfo.cs
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\staticwebassets.build.json
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\staticwebassets.development.json
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\scopedcss\bundle\project_web.styles.css
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\scopedcss\projectbundle\project_web.bundle.scp.css
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.csproj.CopyComplete
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\refint\project_web.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.pdb
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\project_web.genruntimeconfig.cache
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\obj\Debug\net6.0\ref\project_web.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Azure.Core.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Azure.Identity.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\System.Memory.Data.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\App Programming\Project_direction\Web\source\repos\project_web\project_web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
